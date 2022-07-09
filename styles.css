@@ -1,6 +1,6 @@
 .header{
     background-color: #ccc;
-    color: #fff;
+    color: rgb(10, 35, 173);
     width: 10px 1000px;
     padding: 0px;
     border: 1px solid #000;
@@ -25,4 +25,9 @@
 
 #item2{
     float: right;
+}
+
+.btn-edit{
+    float: right;
+    
 }
